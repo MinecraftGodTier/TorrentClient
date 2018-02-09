@@ -1,0 +1,9 @@
+C:\Users\Jason\Documents\Visual Studio 2017\Projects\TorrentClient\TorrentClient\bin\Debug\TorrentClient.exe
+C:\Users\Jason\Documents\Visual Studio 2017\Projects\TorrentClient\TorrentClient\bin\Debug\TorrentClient.pdb
+C:\Users\Jason\Documents\Visual Studio 2017\Projects\TorrentClient\TorrentClient\obj\Debug\TorrentClient.csprojResolveAssemblyReference.cache
+C:\Users\Jason\Documents\Visual Studio 2017\Projects\TorrentClient\TorrentClient\obj\Debug\TorrentClient.Form1.resources
+C:\Users\Jason\Documents\Visual Studio 2017\Projects\TorrentClient\TorrentClient\obj\Debug\TorrentClient.Properties.Resources.resources
+C:\Users\Jason\Documents\Visual Studio 2017\Projects\TorrentClient\TorrentClient\obj\Debug\TorrentClient.csproj.GenerateResource.Cache
+C:\Users\Jason\Documents\Visual Studio 2017\Projects\TorrentClient\TorrentClient\obj\Debug\TorrentClient.csproj.CoreCompileInputs.cache
+C:\Users\Jason\Documents\Visual Studio 2017\Projects\TorrentClient\TorrentClient\obj\Debug\TorrentClient.exe
+C:\Users\Jason\Documents\Visual Studio 2017\Projects\TorrentClient\TorrentClient\obj\Debug\TorrentClient.pdb
