@@ -11,4 +11,4 @@ DONE:
 
 HERE IS HOW IT IS LOOKING SO FAR
 
-https://imgur.com/a/nP6Fr
+![capture](https://user-images.githubusercontent.com/36280645/36039550-ccf55060-0d90-11e8-95c2-117c107039ef.PNG)
